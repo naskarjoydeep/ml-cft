@@ -2,7 +2,7 @@
 """
 Created on Wed Nov 18 01:12:36 2020
 
-@author: Joydeep Naskar
+@author: Joydeep Naskar, Aditya Kumar
 """
 import numpy as np
 from sklearn.model_selection import train_test_split
