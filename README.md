@@ -4,6 +4,8 @@
 #Implemented in Python with Keras & TensorFlow API.
 #Acknowledgments: The authors would like to acknowledge S. Lal & M.Z. Zaz whose notebooks have been particularly helpful during the project.
 
+#data-gen branch contains the codes for generated data.
+#model branch contains the machine learning implementation.
 
 #Project version 1 to be presented on 16 December 2020.
 #Upto this date, the project abstract goes as:
